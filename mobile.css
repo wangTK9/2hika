@@ -1,0 +1,28 @@
+@media only screen and (max-width: 600px) {
+
+    .main {
+        background-image: url(asset/img/anie.jpg);
+        max-width: 100%;
+        height: 50em;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 550px;
+        height: 550px;
+    }
+
+    .social {
+        height: 26em;
+        margin-top: 0;
+    }
+
+    .social__base {
+        width: 70%;
+        color: black;
+    }
+
+    .header img {
+        margin-top: 35%;
+        margin-bottom: 40px;
+    }
+
+}
